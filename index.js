@@ -1,6 +1,8 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
-const {Circle, Square, Triangle} = require('./lib/shapes')
+const {Circle} = require('./lib/circle')
+const {Square} = require('./lib/square')
+const {Triangle} = require('./lib/triangle')
 
 // prompts for the users to enter what they want their logo to look like
 inquirer
