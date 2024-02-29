@@ -54,3 +54,7 @@
 
   ## Contact
   
+  [https://github.com/aejantz2015]
+
+  [aejantz2015@gmail.com]
+  
