@@ -16,9 +16,9 @@
     npm install jest
 
   ## Usage
-  Link to Github Repository: [URL](https://github.com/aejantz2015/Logo-Maker)
+  Link to Github Repository: [https://github.com/aejantz2015/Logo-Maker]
 
-  Link to the walkthrough video: [URL](https://drive.google.com/file/d/17SMYktGXf5wWBivHpmJaORk9Te57D0mD/view)
+  Link to the walkthrough video: [https://drive.google.com/file/d/17SMYktGXf5wWBivHpmJaORk9Te57D0mD/view]
 
   ![Screenshot](./assets/Screenshot.png)
   ![Screenshot](./assets/Screenshot1.png)
